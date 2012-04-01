@@ -1,0 +1,9 @@
+changelog.txt
+
+This file identifies code in the download that has changed from the printed text
+
+File created: 5 Nov 2011 
+
+Recipe 5.2   (CH5r2.ino) fixed comment to match code
+Recipe 15.10 (ch15r10.ino) Removed lines as per errata submitted 8 March 2012
+Recipes 15.15 and 15.16 changed feedID variable type from int to unsigned long
